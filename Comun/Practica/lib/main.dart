@@ -25,7 +25,7 @@ class PaginaInicio extends StatelessWidget {
                 alignment: Alignment.center,
                 padding: EdgeInsets.all(10),
                 child: Text(
-                  'QPSQuest',
+                  'GPSQuest',
                   style: TextStyle(
                       color: Colors.blue,
                       fontWeight: FontWeight.w500,
